@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSelfHosting", "WebApi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices.Data", "WebServices.Data\WebServices.Data.csproj", "{79A873B6-23F2-4050-98D3-007DC5DE3BAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsmxWebService", "AsmxWebService\AsmxWebService.csproj", "{DD1EAAE9-4C63-4962-BCFE-811D286B660D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{79A873B6-23F2-4050-98D3-007DC5DE3BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79A873B6-23F2-4050-98D3-007DC5DE3BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79A873B6-23F2-4050-98D3-007DC5DE3BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1EAAE9-4C63-4962-BCFE-811D286B660D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1EAAE9-4C63-4962-BCFE-811D286B660D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1EAAE9-4C63-4962-BCFE-811D286B660D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1EAAE9-4C63-4962-BCFE-811D286B660D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
