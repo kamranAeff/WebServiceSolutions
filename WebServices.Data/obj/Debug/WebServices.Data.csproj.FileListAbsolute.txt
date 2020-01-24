@@ -1,0 +1,6 @@
+C:\Users\Senior\source\repos\WebServiceSolutions\WebServices.Data\bin\Debug\WebServices.Data.dll
+C:\Users\Senior\source\repos\WebServiceSolutions\WebServices.Data\bin\Debug\WebServices.Data.pdb
+C:\Users\Senior\source\repos\WebServiceSolutions\WebServices.Data\obj\Debug\WebServices.Data.csprojAssemblyReference.cache
+C:\Users\Senior\source\repos\WebServiceSolutions\WebServices.Data\obj\Debug\WebServices.Data.csproj.CoreCompileInputs.cache
+C:\Users\Senior\source\repos\WebServiceSolutions\WebServices.Data\obj\Debug\WebServices.Data.dll
+C:\Users\Senior\source\repos\WebServiceSolutions\WebServices.Data\obj\Debug\WebServices.Data.pdb
